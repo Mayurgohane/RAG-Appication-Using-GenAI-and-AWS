@@ -9,7 +9,7 @@
 
 #### Install the requirements
 
-#### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+#### Create a `.env` file and add credentials
 
 
 ## AWS-CICD-Deployment-with-Github-Actions
