@@ -1,22 +1,22 @@
 # Chatbot-Using-Gen-AI
 
 
-# How to run?
-### STEPS:
+## How to run?
 
-## Step01- Clone the repository
+#### Clone the repository
 
-### STEP 02- Create a conda environment after opening the repository
+#### Create a conda environment after opening the repository
 
-### STEP 03- install the requirements
+#### Install the requirements
 
-### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
+#### Create a `.env` file in the root directory and add your Pinecone & openai credentials as follows:
 
-# AWS-CICD-Deployment-with-Github-Actions
 
-## 1. Login to AWS console.
+## AWS-CICD-Deployment-with-Github-Actions
 
-## 2. Create IAM user for deployment
+#### 1. Login to AWS console.
+
+#### 2. Create IAM user for deployment
 
 	#with specific access
 
@@ -44,11 +44,11 @@
 	2. AmazonEC2FullAccess
 
 	
-## 3. Create ECR repo to store/save docker image
+#### 3. Create ECR repo to store/save docker image
 	
-## 4. Create EC2 machine (Ubuntu) 
+#### 4. Create EC2 machine (Ubuntu) 
 
-## 5. Open EC2 and Install docker in EC2 Machine:
+#### 5. Open EC2 and Install docker in EC2 Machine:
 	
 	
 	#optinal
@@ -67,11 +67,11 @@
 
 	newgrp docker
 	
-# 6. Configure EC2 as self-hosted runner:
+#### 6. Configure EC2 as self-hosted runner:
     setting>actions>runner>new self hosted runner> choose os> then run command one by one
 
 
-# 7. Setup github secrets:
+#### 7. Setup github secrets:
 
    - AWS_ACCESS_KEY_ID
    - AWS_SECRET_ACCESS_KEY
