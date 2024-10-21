@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Chatbot-Using-Gen-AI
 
 
