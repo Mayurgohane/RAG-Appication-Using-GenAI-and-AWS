@@ -51,15 +51,6 @@ open up localhost:
 ```
 
 
-### Techstack Used:
-
-- Python
-- LangChain
-- Flask
-- GPT
-- Pinecone
-
-
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
